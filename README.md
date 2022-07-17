@@ -6,11 +6,11 @@
 
 ## About
 
-<b>eco-tree</b> is a machine learning based we application build using Angular-14 and Flask. eco-tree is used for recommending Crop and Fertilizers based on the soil features. The application used three accuractely predciting models to make the final predictions. The link for the python notebooks containing the implementation for the models are present in the <b><a href="#links">All Links</a></b> section of this Readme.<br/>
+<b>eco-tree</b> is a machine learning based web application build using Angular-14 and Flask. eco-tree is used for recommending Crop and Fertilizers based on the soil features. The application used three accuractely predciting models to make the final predictions. The link for the python notebooks containing the implementation for the models are present in the <b><a href="#links">All Links</a></b> section of this Readme.<br/>
 
 An API was built using Flask and was deployed on AWS. This Flask API is used to get the recommendation made by the machine learning models in JSON format. The input data is sent as a POST request to the API to get the predicted information.<br/>
 
-Angular-14 JS was used to build the frontend part of the application. JS packages such as MaterialUI, Axios, react-router-dom were used for frontend part of the web application.<br/>
+Angular-14 was used to build the frontend part of the application. MaterialUI was used for frontend part of the web application.<br/>
 
 <b>Deployed Web Application Link: </b>http://ecotree-app.s3-website.ap-south-1.amazonaws.com/
 <br/>
