@@ -129,7 +129,7 @@ python app.py
 
 ## Preview Of Web Application
 
-<img src="./readme_assets/preview.gif" />
+<img src="./readme_assets/preview.png" />
 
 <div align="center">
 
