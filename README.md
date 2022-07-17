@@ -115,11 +115,11 @@ python app.py
 <table>
     <tr>
         <td><img src="./readme_assets/Angular.png" width="200px" height="200px" /></td>
-        <td><img src="./readme_assets/aws.png" width="200px" height="200px" /></td>
+        <td><img src="./readme_assets/aws.png" width="200px" height="105px" /></td>
     </tr>
     <tr>
-        <td><img src="./readme_assets/flask.png" width="200px" height="200px" /></td>
-        <td><img src="./readme_assets/scikit.png" width="200px" height="200px" /></td>
+        <td><img src="./readme_assets/flask.png" width="200px" height="122px" /></td>
+        <td><img src="./readme_assets/scikit.png" width="200px" height="114px" /></td>
     </tr>
 </table>
 
